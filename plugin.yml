@@ -1,0 +1,6 @@
+name: IPAccount
+version: 1.0
+main: me.finances.ipaccount.Core
+
+commands:
+  ip:
